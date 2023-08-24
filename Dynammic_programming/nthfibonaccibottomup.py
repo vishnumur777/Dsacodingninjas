@@ -9,6 +9,7 @@ def fibo(n):
 
     return memo[n]
 
+
 if __name__ == "__main__":
     n=int(input())
     print(fibo(n))

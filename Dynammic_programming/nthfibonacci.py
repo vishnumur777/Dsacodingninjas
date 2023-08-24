@@ -10,6 +10,7 @@ def fibo(n):
     memo[n]=result
     return result
 
+
 if __name__ == "__main__":
     n=10
     n1=50

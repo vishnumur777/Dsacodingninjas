@@ -5,6 +5,7 @@ def getKthlargest(subsequence,k):
     subsequence.sort()
     return subsequence[len(subsequence)-k]
 
+
 if __name__ == "__main__":
     b=list(map(int,input().split()))
     k=int(input())

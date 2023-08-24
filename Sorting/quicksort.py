@@ -16,8 +16,6 @@ def partition(array, low, high):
 	return i + 1
 
 
-
-
 def quickSort(array, low, high):
 	if low < high:
 
