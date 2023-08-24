@@ -12,3 +12,5 @@ k=int(input())
 res=rotateArray(arr, k)
 print(*res)
 
+
+

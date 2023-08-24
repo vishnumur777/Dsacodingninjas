@@ -11,3 +11,5 @@ if __name__ == "__main__":
     k=int(input())
     v=getKthlargest(b,k)
     print(f"The {k}th largest element from the given array is: {v}")
+
+
